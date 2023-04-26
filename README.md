@@ -41,7 +41,7 @@ Phone screen<br><br>
 
 ### Built with
 
-- HTML5 markup
+- HTML5
 - CSS3
 - Flexbox
 - CSS Grid
