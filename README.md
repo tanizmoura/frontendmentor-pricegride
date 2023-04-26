@@ -26,16 +26,16 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop screen
-![Desktop screen](solution-images/pc.png)
+Desktop screen<br>
+![Desktop screen](solution-images/desktop.png)
 
-Phone screen<br>
+Phone screen<br><br>
 ![Phone screen](solution-images/phone.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/tanizmoura/frontendmentor-pricegride)
+- Live Site URL: [Live site on Netlify](https://frontendmentor-pricegride.netlify.app/)
 
 ## My process
 
